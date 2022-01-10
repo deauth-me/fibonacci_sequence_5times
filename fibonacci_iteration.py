@@ -13,5 +13,7 @@ def fibonacci_of(n):
 
 
 count = int(input("How many Fibonacci numbers do you want to generate? "))
+
 fibonacci_list = [fibonacci_of(n) for n in range(count)]
+
 print(fibonacci_list)
