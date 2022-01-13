@@ -1,4 +1,4 @@
-# generating Fibonacci sequence using cache...time complexity O(n)
+# generating Fibonacci sequence using cache
 
 cache = {0: 0, 1: 1}
 
