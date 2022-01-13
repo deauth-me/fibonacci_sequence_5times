@@ -1,4 +1,4 @@
-# generating Fibonacci sequence using iteration... time complexity O(n)
+# generating Fibonacci sequence using iteration
 
 def fibonacci_of(n):
     if n in {0, 1}:
