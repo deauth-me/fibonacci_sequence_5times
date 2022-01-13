@@ -1,4 +1,4 @@
-# generating Fibonacci sequence using class... time complexity O(n)
+# generating Fibonacci sequence using class
 
 class Fibonacci:
     def __init__(self):
