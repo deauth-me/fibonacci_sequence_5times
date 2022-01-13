@@ -1,4 +1,4 @@
-# generating Fibonacci sequence using recursion...time complexity O(2**n)
+# generating Fibonacci sequence using recursion
 
 def fibonacci_of(n):
     if n in {0, 1}:
