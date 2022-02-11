@@ -1,3 +1,1 @@
-# fibonacci_sequence
-
-Five different methods how to generate Fibonacci sequence in Python.
+Five different methods for generating Fibonacci sequence in Python.
